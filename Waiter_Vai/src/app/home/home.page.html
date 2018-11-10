@@ -4,13 +4,19 @@
       <ion-menu-button></ion-menu-button>
     </ion-buttons>
     <ion-title>
-      Perfil
+      Home
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content padding>
-  The world is your oyster.
-  <p>If you get lost, the
-    <a target="_blank" rel="noopener" href="https://ionicframework.com/docs">docs</a> will be your guide.</p>
+  <ion-item class="item-leave-height">
+      <ion-label>SELECT LEAVE</ion-label>
+      <ion-select [(ngModel)]="selectedLeave">
+          <ion-option value="CASUAL LEAVE">Casual Leave</ion-option>
+          <ion-option value="COMP OFF">Comp Off</ion-option>
+          <ion-option value="EARNED LEAVE">Earned Leave</ion-option>
+          <ion-option value="SICK LEAVE">Sick Leave</ion-option>
+      </ion-select>
+  </ion-item>
 </ion-content>
