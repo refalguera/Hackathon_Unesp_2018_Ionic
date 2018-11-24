@@ -5,3 +5,6 @@ Projeto de criação de aplicativo voltado a mobilidade urbana. Foi classificado
 A IDEIA: O aplicativo serviria para recarregar o passe de ônibus via celular e também traria infamações sobre a lotação de um determinado ônibus, permitindo assim que usuário verificasse se seria possível pegá-lo ou não.
 
 FERRAMENTAS: Foi usado o IONIC FRAMEWORK para a realização desse projeto. O aplicativo não chegou a ficar pronto, devido ao tempo do Hackathon foi feito uma versão bem simples da ideia.
+
+                                         EQUIPE 
+![alt text](https://github.com/refalguera/Hackathon_Unesp_2018_Ionic/blob/master/Images/Capturar.PNG)
