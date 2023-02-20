@@ -1,6 +1,6 @@
 # Hackathon_Unesp_2018
 
-Project to create an application for urban mobility. It was classified in Third Place in the Hackathon of 2018. Realized in group by: Mariana Melo, Otávio Jóse Bertozzi, Renata Falguera Gonçalves and Rodney de Souza.
+Project to create an application for urban mobility. It was classified in Third Place in the Hackathon of 2018. Realized in group by: Mariana Melo, Otávio Jóse Bertozzi, Renata Falguera and Rodney de Souza.
 
 IDEIA: The application would serve to recharge the bus pass via cell phone and would also bring scolding about the stocking of a particular bus, thus allowing the user to check if it would be possible to catch him or not.
 
